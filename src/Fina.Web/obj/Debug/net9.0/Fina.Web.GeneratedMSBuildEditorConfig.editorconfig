@@ -52,26 +52,62 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xSZXBvcnRzXEluY29tZXNCeUNhdGVnb3J5Q2hhcnQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Temp/FinanceiroApp/src/Fina.Web/Pages/Counter.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
+[C:/Temp/FinanceiroApp/src/Fina.Web/Layout/HeadlessLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XEhlYWRsZXNzTGF5b3V0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Temp/FinanceiroApp/src/Fina.Web/Layout/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Temp/FinanceiroApp/src/Fina.Web/Pages/Categories/Create.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcmllc1xDcmVhdGUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Temp/FinanceiroApp/src/Fina.Web/Pages/Categories/Edit.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcmllc1xFZGl0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Temp/FinanceiroApp/src/Fina.Web/Pages/Categories/List.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcmllc1xMaXN0LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Temp/FinanceiroApp/src/Fina.Web/Pages/Home.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Temp/FinanceiroApp/src/Fina.Web/Pages/Weather.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcV2VhdGhlci5yYXpvcg==
+[C:/Temp/FinanceiroApp/src/Fina.Web/Pages/Identity/Login.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSWRlbnRpdHlcTG9naW4ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Temp/FinanceiroApp/src/Fina.Web/Pages/Identity/Logout.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSWRlbnRpdHlcTG9nb3V0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Temp/FinanceiroApp/src/Fina.Web/Pages/Identity/Register.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSWRlbnRpdHlcUmVnaXN0ZXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Temp/FinanceiroApp/src/Fina.Web/Pages/Orders/Checkout.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3JkZXJzXENoZWNrb3V0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Temp/FinanceiroApp/src/Fina.Web/Pages/Orders/Confirm.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3JkZXJzXENvbmZpcm0ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Temp/FinanceiroApp/src/Fina.Web/Pages/Transactions/Create.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVHJhbnNhY3Rpb25zXENyZWF0ZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Temp/FinanceiroApp/src/Fina.Web/Pages/Transactions/Edit.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVHJhbnNhY3Rpb25zXEVkaXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Temp/FinanceiroApp/src/Fina.Web/Pages/Transactions/List.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVHJhbnNhY3Rpb25zXExpc3QucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Temp/FinanceiroApp/src/Fina.Web/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Temp/FinanceiroApp/src/Fina.Web/Layout/MainLayout.razor]
-build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE1haW5MYXlvdXQucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = b-ifwbdd44b4
-
-[C:/Temp/FinanceiroApp/src/Fina.Web/Layout/NavMenu.razor]
-build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE5hdk1lbnUucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = b-pkgckutjdw
