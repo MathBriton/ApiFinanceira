@@ -1,7 +1,7 @@
 using MudBlazor;
 using MudBlazor.Utilities;
 
-namespace Dima.Web;
+namespace Fina.Web;
 
 public static class Configuration
 {

@@ -1,11 +1,11 @@
 using System.Security.Claims;
-using Dima.Api.Common.Api;
-using Dima.Core.Handlers;
-using Dima.Core.Models;
-using Dima.Core.Requests.Transactions;
-using Dima.Core.Responses;
+using Fina.Api.Common.Api;
+using Fina.Api.Handlers;
+using Fina.Api.Models;
+using Fina.Api.Requests.Transactions;
+using Fina.Api.Responses;
 
-namespace Dima.Api.Endpoints.Transactions;
+namespace Fina.Api.Endpoints.Transactions;
 
 public class GetTransactionByIdEndpoint : IEndpoint
 {

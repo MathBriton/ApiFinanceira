@@ -1,8 +1,8 @@
 using System.Net;
-using Dima.Core.Requests.Stripe;
-using Dima.Core.Responses;
+using Fina.Domain.Requests.Stripe;
+using Fina.Domain.Responses;
 
-namespace Dima.Core.Handlers;
+namespace Fina.Domain.Handlers;
 
 public interface IStripeHandler
 

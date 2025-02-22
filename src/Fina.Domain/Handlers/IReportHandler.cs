@@ -1,8 +1,8 @@
-using Dima.Core.Models.Reports;
-using Dima.Core.Requests.Reports;
-using Dima.Core.Responses;
+using Fina.Domain.Models.Reports;
+using Fina.Domain.Requests.Reports;
+using Fina.Domain.Responses;
 
-namespace Dima.Core.Handlers;
+namespace Fina.Domain.Handlers;
 
 public interface IReportHandler
 {

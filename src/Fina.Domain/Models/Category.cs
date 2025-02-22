@@ -1,4 +1,4 @@
-namespace Dima.Core.Models;
+namespace Fina.Domain.Models;
 
 public class Category 
 

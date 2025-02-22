@@ -1,10 +1,10 @@
-using Dima.Core.Handlers;
-using Dima.Core.Requests.Account;
-using Dima.Web.Security;
+using Fina.Domain.Handlers;
+using Fina.Domain.Requests.Account;
+using Fina.Web.Security;
 using Microsoft.AspNetCore.Components;
 using MudBlazor;
 
-namespace Dima.Web.Pages.Identity;
+namespace Fina.Web.Pages.Identity;
 
 public partial class LoginPage : ComponentBase
 {

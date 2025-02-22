@@ -1,11 +1,11 @@
 using System.Security.Claims;
-using Dima.Api.Common.Api;
-using Dima.Core.Handlers;
-using Dima.Core.Models;
-using Dima.Core.Requests.Orders;
-using Dima.Core.Responses;
+using Fina.Api.Common.Api;
+using Fina.Api.Handlers;
+using Fina.Api.Models;
+using Fina.Api.Requests.Orders;
+using Fina.Api.Responses;
 
-namespace Dima.Api.Endpoints.Orders;
+namespace Fina.Api.Endpoints.Orders;
 
 public class CreateOrderEndpoint : IEndpoint
 {

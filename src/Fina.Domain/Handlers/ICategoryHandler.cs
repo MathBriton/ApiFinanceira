@@ -1,8 +1,8 @@
-using Dima.Core.Models;
-using Dima.Core.Requests.Categories;
-using Dima.Core.Responses;
+using Fina.Domain.Models;
+using Fina.Domain.Requests.Categories;
+using Fina.Domain.Responses;
 
-namespace Dima.Core.Handlers;
+namespace Fina.Domain.Handlers;
 
 public interface ICategoryHandler
 

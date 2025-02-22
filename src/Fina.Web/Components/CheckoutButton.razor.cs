@@ -1,6 +1,6 @@
-using Dima.Core.Handlers;
-using Dima.Core.Requests.Orders;
-using Dima.Core.Requests.Stripe;
+using Fina.Domain.Handlers;
+using Fina.Domain.Requests.Orders;
+using Fina.Domain.Requests.Stripe;
 using Microsoft.AspNetCore.Components;
 using Microsoft.JSInterop;
 using MudBlazor;

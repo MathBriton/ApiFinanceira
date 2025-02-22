@@ -1,7 +1,7 @@
-using Dima.Core.Requests.Account;
-using Dima.Core.Responses;
+using Fina.Domain.Requests.Account;
+using Fina.Domain.Responses;
 
-namespace Dima.Core.Handlers;
+namespace Fina.Domain.Handlers;
 
 public interface IAccountHandler
 

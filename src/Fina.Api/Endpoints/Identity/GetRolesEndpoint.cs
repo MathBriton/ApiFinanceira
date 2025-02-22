@@ -1,8 +1,8 @@
 using System.Security.Claims;
-using Dima.Api.Common.Api;
-using Dima.Core.Models.Account;
+using Fina.Api.Common.Api;
+using Fina.Api.Models.Account;
 
-namespace Dima.Api.Endpoints.Identity;
+namespace Fina.Api.Endpoints.Identity;
 
 public class GetRolesEndpoint : IEndpoint
 {

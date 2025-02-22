@@ -1,13 +1,13 @@
 using System.Security.Claims;
-using Dima.Api.Common.Api;
-using Dima.Core;
-using Dima.Core.Handlers;
-using Dima.Core.Models;
-using Dima.Core.Requests.Transactions;
-using Dima.Core.Responses;
+using Fina.Api.Common.Api;
+using Fina.Api;
+using Fina.Api.Handlers;
+using Fina.Api.Models;
+using Fina.Api.Requests.Transactions;
+using Fina.Api.Responses;
 using Microsoft.AspNetCore.Mvc;
 
-namespace Dima.Api.Endpoints.Transactions;
+namespace Fina.Api.Endpoints.Transactions;
 
 public class GetTransactionsByPeriodEndpoint : IEndpoint
 {

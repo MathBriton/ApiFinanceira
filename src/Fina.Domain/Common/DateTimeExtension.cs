@@ -1,4 +1,4 @@
-namespace Dima.Core.Common.Extensions;
+namespace Fina.Domain.Common.Extensions;
 
 public static class DateTimeExtension
 

@@ -1,6 +1,6 @@
 using System.ComponentModel.DataAnnotations;
 
-namespace Dima.Core.Requests.Account;
+namespace Fina.Domain.Requests.Account;
 
 public class RegisterRequest : Request 
 

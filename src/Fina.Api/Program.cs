@@ -1,7 +1,7 @@
-using Dima.Api;
-using Dima.Api.Common.Api;
-using Dima.Api.Endpoints;
-using Dima.Core;
+using Fina.Api;
+using Fina.Api.Common.Api;
+using Fina.Api.Endpoints;
+using Fina.Api;
 
 var builder = WebApplication.CreateBuilder(args);
 builder.AddConfiguration();

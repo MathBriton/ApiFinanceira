@@ -1,12 +1,12 @@
-using Dima.Api.Data;
-using Dima.Core.Enums;
-using Dima.Core.Handlers;
-using Dima.Core.Models.Reports;
-using Dima.Core.Requests.Reports;
-using Dima.Core.Responses;
+using Fina.Api.Data;
+using Fina.Api.Enums;
+using Fina.Api.Handlers;
+using Fina.Api.Models.Reports;
+using Fina.Api.Requests.Reports;
+using Fina.Api.Responses;
 using Microsoft.EntityFrameworkCore;
 
-namespace Dima.Api.Handlers;
+namespace Fina.Api.Handlers;
 
 public class ReportHandler(AppDbContext context) : IReportHandler
 {

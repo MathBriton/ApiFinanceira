@@ -1,11 +1,11 @@
 using System.Security.Claims;
-using Dima.Api.Common.Api;
-using Dima.Core.Handlers;
-using Dima.Core.Requests.Orders;
-using Dima.Core.Requests.Stripe;
-using Dima.Core.Responses;
+using Fina.Api.Common.Api;
+using Fina.Api.Handlers;
+using Fina.Api.Requests.Orders;
+using Fina.Api.Requests.Stripe;
+using Fina.Api.Responses;
 
-namespace Dima.Api.Endpoints.Stripe;
+namespace Fina.Api.Endpoints.Stripe;
 
 public class CreateSessionEndpoint : IEndpoint
 {

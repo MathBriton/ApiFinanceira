@@ -1,4 +1,4 @@
-namespace Dima.Core.Models.Reports;
+namespace Fina.Domain.Models.Reports;
 
 public record FinancalSummary(string UserId, decimal Incomes, decimal Expenses)
 {

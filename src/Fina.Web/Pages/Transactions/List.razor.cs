@@ -1,11 +1,11 @@
-using Dima.Core.Common.Extensions;
-using Dima.Core.Handlers;
-using Dima.Core.Models;
-using Dima.Core.Requests.Transactions;
+using Fina.Domain.Common.Extensions;
+using Fina.Domain.Handlers;
+using Fina.Domain.Models;
+using Fina.Domain.Requests.Transactions;
 using Microsoft.AspNetCore.Components;
 using MudBlazor;
 
-namespace Dima.Web.Pages.Transactions;
+namespace Fina.Web.Pages.Transactions;
 
 public partial class ListTransactionsPage : ComponentBase
 {

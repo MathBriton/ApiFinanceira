@@ -1,13 +1,13 @@
-using Dima.Api.Data;
-using Dima.Api.Handlers;
-using Dima.Api.Models;
-using Dima.Core;
-using Dima.Core.Handlers;
+using Fina.Api.Data;
+using Fina.Api.Handlers;
+using Fina.Api.Models;
+using Fina.Api;
+using Fina.Api.Handlers;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Stripe;
 
-namespace Dima.Api.Common.Api;
+namespace Fina.Api.Common.Api;
 
 public static class BuilderExtension
 {

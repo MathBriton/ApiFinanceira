@@ -1,4 +1,4 @@
-namespace Dima.Api;
+namespace Fina.Api;
 
 public static class ApiConfiguration
 

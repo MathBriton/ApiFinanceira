@@ -1,7 +1,7 @@
-namespace Dima.Core.Requests.Reports;
+namespace Fina.Domain.Requests.Reports;
 
 public class GetIncomesByCategoryRequest : Request
 
 {
-    
+
 }

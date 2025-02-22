@@ -1,5 +1,5 @@
-using Dima.Core.Handlers;
-using Dima.Core.Requests.Reports;
+using Fina.Domain.Handlers;
+using Fina.Domain.Requests.Reports;
 using Microsoft.AspNetCore.Components;
 using MudBlazor;
 

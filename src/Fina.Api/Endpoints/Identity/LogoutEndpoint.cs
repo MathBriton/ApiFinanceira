@@ -1,8 +1,8 @@
-using Dima.Api.Common.Api;
-using Dima.Api.Models;
+using Fina.Api.Common.Api;
+using Fina.Api.Models;
 using Microsoft.AspNetCore.Identity;
 
-namespace Dima.Api.Endpoints.Identity;
+namespace Fina.Api.Endpoints.Identity;
 
 public class LogoutEndpoint : IEndpoint
 {

@@ -1,4 +1,4 @@
-namespace Dima.Core.Requests.Orders;
+namespace Fina.Domain.Requests.Orders;
 
 public class ConfirmOrderRequest : Request
 

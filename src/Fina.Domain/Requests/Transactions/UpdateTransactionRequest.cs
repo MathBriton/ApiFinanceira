@@ -1,7 +1,7 @@
 using System.ComponentModel.DataAnnotations;
-using Dima.Core.Enums;
+using Fina.Domain.Enums;
 
-namespace Dima.Core.Requests.Transactions;
+namespace Fina.Domain.Requests.Transactions;
 
 public class UpdateTransactionRequest : Request
 

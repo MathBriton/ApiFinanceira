@@ -1,14 +1,14 @@
-using Dima.Api.Data;
-using Dima.Core.Common.Extensions;
-using Dima.Core.Enums;
-using Dima.Core.Handlers;
-using Dima.Core.Models;
-using Dima.Core.Requests.Transactions;
-using Dima.Core.Responses;
+using Fina.Api.Data;
+using Fina.Api.Common.Extensions;
+using Fina.Api.Enums;
+using Fina.Api.Handlers;
+using Fina.Api.Models;
+using Fina.Api.Requests.Transactions;
+using Fina.Api.Responses;
 using Microsoft.AspNetCore.Components.Web;
 using Microsoft.EntityFrameworkCore;
 
-namespace Dima.Api.Handlers;
+namespace Fina.Api.Handlers;
 
 public class TransactionHandler(AppDbContext context) : ITransactionHandler
 {

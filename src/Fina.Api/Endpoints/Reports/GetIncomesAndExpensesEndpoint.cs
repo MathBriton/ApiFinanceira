@@ -1,11 +1,11 @@
 using System.Security.Claims;
 using Dima.Api.Common.Api;
-using Dima.Core.Handlers;
-using Dima.Core.Models.Reports;
-using Dima.Core.Requests.Reports;
-using Dima.Core.Responses;
+using Fina.Api.Handlers;
+using Fina.Api.Models.Reports;
+using Fina.Api.Requests.Reports;
+using Fina.Api.Responses;
 
-namespace Dima.Api.Endpoints.Reports;
+namespace Fina.Api.Endpoints.Reports;
 
 public class GetIncomesAndExpensesEndpoint : IEndpoint
 {

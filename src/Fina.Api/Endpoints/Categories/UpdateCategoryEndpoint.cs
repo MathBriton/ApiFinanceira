@@ -1,11 +1,11 @@
 using System.Security.Claims;
-using Dima.Api.Common.Api;
-using Dima.Core.Handlers;
-using Dima.Core.Models;
-using Dima.Core.Requests.Categories;
-using Dima.Core.Responses;
+using Fina.Api.Common.Api;
+using Fina.Api.Handlers;
+using Fina.Api.Models;
+using Fina.Api.Requests.Categories;
+using Fina.Api.Responses;
 
-namespace Dima.Api.Endpoints.Categories;
+namespace Fina.Api.Endpoints.Categories;
 
 public class UpdateCategoryEndpoint : IEndpoint
 {

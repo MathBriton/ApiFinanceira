@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Components.WebAssembly.Http;
 
-namespace Dima.Web.Security;
+namespace Fina.Web.Security;
 
 public class CookieHandler : DelegatingHandler
 {

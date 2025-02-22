@@ -1,9 +1,9 @@
-using Dima.Core.Handlers;
-using Dima.Web.Security;
+using Fina.Domain.Handlers;
+using Fina.Web.Security;
 using Microsoft.AspNetCore.Components;
 using MudBlazor;
 
-namespace Dima.Web.Pages.Identity;
+namespace Fina.Web.Pages.Identity;
 
 public partial class LogoutPage : ComponentBase
 {

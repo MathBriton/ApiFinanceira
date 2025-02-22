@@ -1,6 +1,6 @@
-using Dima.Core.Enums;
+using Fina.Domain.Enums;
 
-namespace Dima.Core.Models;
+namespace Fina.Domain.Models;
 
 public class Transaction
 {

@@ -1,4 +1,4 @@
-namespace Dima.Api.Common.Api;
+namespace Fina.Api.Common.Api;
 
 public static class AppExtension
 

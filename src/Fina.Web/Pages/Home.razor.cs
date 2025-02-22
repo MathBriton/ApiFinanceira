@@ -1,10 +1,10 @@
-using Dima.Core.Handlers;
-using Dima.Core.Models.Reports;
-using Dima.Core.Requests.Reports;
+using Fina.Domain.Handlers;
+using Fina.Domain.Models.Reports;
+using Fina.Domain.Requests.Reports;
 using Microsoft.AspNetCore.Components;
 using MudBlazor;
 
-namespace Dima.Web.Pages;
+namespace Fina.Web.Pages;
 
 public partial class HomePage : ComponentBase
 {

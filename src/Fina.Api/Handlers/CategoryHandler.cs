@@ -1,11 +1,11 @@
-using Dima.Api.Data;
-using Dima.Core.Handlers;
-using Dima.Core.Models;
-using Dima.Core.Requests.Categories;
-using Dima.Core.Responses;
+using Fina.Api.Data;
+using Fina.Api.Handlers;
+using Fina.Api.Models;
+using Fina.Api.Requests.Categories;
+using Fina.Api.Responses;
 using Microsoft.EntityFrameworkCore;
 
-namespace Dima.Api.Handlers;
+namespace Fina.Api.Handlers;
 
 public class CategoryHandler(AppDbContext context) : ICategoryHandler
 {

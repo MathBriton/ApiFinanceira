@@ -1,8 +1,8 @@
-using Dima.Core.Models;
-using Dima.Core.Requests.Orders;
-using Dima.Core.Responses;
+using Fina.Domain.Models;
+using Fina.Domain.Requests.Orders;
+using Fina.Domain.Responses;
 
-namespace Dima.Core.Handlers;
+namespace Fina.Domain.Handlers;
 
 public interface IOrderHandler
 {

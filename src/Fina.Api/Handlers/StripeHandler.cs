@@ -1,10 +1,10 @@
-using Dima.Core;
-using Dima.Core.Handlers;
-using Dima.Core.Requests.Stripe;
-using Dima.Core.Responses;
+using Fina.Api;
+using Fina.Api.Handlers;
+using Fina.Api.Requests.Stripe;
+using Fina.Api.Responses;
 using Stripe.Checkout;
 
-namespace Dima.Api.Handlers;
+namespace Fina.Api.Handlers;
 
 public class StripeHandler : IStripeHandler
 {

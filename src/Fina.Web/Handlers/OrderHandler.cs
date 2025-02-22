@@ -1,8 +1,8 @@
 using System.Net.Http.Json;
-using Dima.Core.Handlers;
-using Dima.Core.Models;
-using Dima.Core.Requests.Orders;
-using Dima.Core.Responses;
+using Fina.Domain.Handlers;
+using Fina.Domain.Models;
+using Fina.Domain.Requests.Orders;
+using Fina.Domain.Responses;
 
 namespace Dima.Web.Handlers;
 

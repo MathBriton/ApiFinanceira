@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Identity;
 
-namespace Dima.Api.Models;
+namespace Fina.Api.Models;
 
 public class User : IdentityUser<long>
 

@@ -1,14 +1,14 @@
-using Dima.Api.Data;
-using Dima.Core.Enums;
-using Dima.Core.Handlers;
-using Dima.Core.Models;
-using Dima.Core.Requests.Orders;
-using Dima.Core.Responses;
+using Fina.Apis.Data;
+using Fina.Api.Enums;
+using Fina.Api.Handlers;
+using Fina.Api.Models;
+using Fina.Api.Requests.Orders;
+using Fina.Api.Responses;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Stripe;
 
-namespace Dima.Api.Handlers;
+namespace Fina.Api.Handlers;
 
 public class OrderHandler(
     AppDbContext context,

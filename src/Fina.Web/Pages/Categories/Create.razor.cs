@@ -1,5 +1,5 @@
-using Dima.Core.Handlers;
-using Dima.Core.Requests.Categories;
+using Fina.Domain.Handlers;
+using Fina.Domain.Requests.Categories;
 using Microsoft.AspNetCore.Components;
 using MudBlazor;
 

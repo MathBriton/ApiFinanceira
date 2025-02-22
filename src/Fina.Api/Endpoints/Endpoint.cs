@@ -1,13 +1,13 @@
-using Dima.Api.Common.Api;
-using Dima.Api.Endpoints.Categories;
-using Dima.Api.Endpoints.Identity;
-using Dima.Api.Endpoints.Orders;
-using Dima.Api.Endpoints.Reports;
-using Dima.Api.Endpoints.Stripe;
-using Dima.Api.Endpoints.Transactions;
-using Dima.Api.Models;
+using Fina.Api.Common.Api;
+using Fina.Api.Endpoints.Categories;
+using Fina.Api.Endpoints.Identity;
+using Fina.Api.Endpoints.Orders;
+using Fina.Api.Endpoints.Reports;
+using Fina.Api.Endpoints.Stripe;
+using Fina.Api.Endpoints.Transactions;
+using Fina.Api.Models;
 
-namespace Dima.Api.Endpoints;
+namespace Fina.Api.Endpoints;
 
 public static class Endpoint
 {

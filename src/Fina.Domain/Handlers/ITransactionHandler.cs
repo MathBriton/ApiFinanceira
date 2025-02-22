@@ -1,8 +1,8 @@
-using Dima.Core.Models;
-using Dima.Core.Requests.Transactions;
-using Dima.Core.Responses;
+using Fina.Domain.Models;
+using Fina.Domain.Requests.Transactions;
+using Fina.Domain.Responses;
 
-namespace Dima.Core.Handlers;
+namespace Fina.Domain.Handlers;
 
 public interface ITransactionHandler
 

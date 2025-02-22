@@ -1,4 +1,4 @@
-namespace Dima.Core.Requests.Transactions;
+namespace Fina.Domain.Requests.Transactions;
 
 public class DeleteTransactionRequest : Request
 {

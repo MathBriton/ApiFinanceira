@@ -1,10 +1,10 @@
 using System.Globalization;
-using Dima.Core.Handlers;
+using Fina.Domain.Handlers;
 using Microsoft.AspNetCore.Components.Web;
 using Microsoft.AspNetCore.Components.WebAssembly.Hosting;
-using Dima.Web;
-using Dima.Web.Handlers;
-using Dima.Web.Security;
+using Fina.Web;
+using Fina.Web.Handlers;
+using Fina.Web.Security;
 using Microsoft.AspNetCore.Components.Authorization;
 using MudBlazor.Services;
 

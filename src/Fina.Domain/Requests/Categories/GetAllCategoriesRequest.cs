@@ -1,6 +1,6 @@
-namespace Dima.Core.Requests.Categories;
+namespace Fina.Domain.Requests.Categories;
 
 public class GetAllCategoriesRequest : PagedRequest
 {
-    
+
 }

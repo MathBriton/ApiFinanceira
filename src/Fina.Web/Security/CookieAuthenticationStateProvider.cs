@@ -1,9 +1,9 @@
 using System.Net.Http.Json;
 using System.Security.Claims;
-using Dima.Core.Models.Account;
+using Fina.Domain.Models.Account;
 using Microsoft.AspNetCore.Components.Authorization;
 
-namespace Dima.Web.Security;
+namespace Fina.Web.Security;
 
 public class CookieAuthenticationStateProvider(IHttpClientFactory clientFactory) :
     AuthenticationStateProvider,

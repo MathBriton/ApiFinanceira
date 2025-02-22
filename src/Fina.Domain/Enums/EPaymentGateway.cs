@@ -1,4 +1,4 @@
-namespace Dima.Core.Enums;
+namespace Fina.Domain.Enums;
 
 public enum EPaymentGateway
 
